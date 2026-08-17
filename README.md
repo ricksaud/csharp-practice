@@ -9,6 +9,7 @@ Each project lives in its own numbered folder, in the order I built them.
 | # | Project | Concepts practiced |
 |---|---------|---------------------|
 | 01 | [Calculator](./01%20-%20Calculator) | loops, if/else, switch, methods, input validation (`TryParse`), basic error handling (divide by zero) |
+| 02 | [Guess The Number](./02%20-%20Guess%20The%20Number) | nested loops, Random, TryParse, replay logic |
 
 More projects will be added here as I complete them.
 
